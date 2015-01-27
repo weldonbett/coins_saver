@@ -1,0 +1,17 @@
+<style type="text/css" >
+a:link, a:visited
+{
+display:block;
+font-weight:normal;
+color:#FFFF33;
+background-color:#999999;
+width:120px;
+text-align:center;
+padding:4px;
+text-decoration:none;
+}
+a: hover ,a:active{
+background-color:#00aaff;border-color:#424542;border-style:solid;color:#000;text-decoration:none;background-image:url(hsep.gif);
+}
+
+</style>
